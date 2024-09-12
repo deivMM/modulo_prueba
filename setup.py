@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mi_modulo",
+    name="c",
     version="0.1",
     packages=find_packages(),
     description="Un módulo de ejemplo",
