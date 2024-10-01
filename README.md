@@ -7,7 +7,6 @@
 
     pip install git+https://github.com/usuario/repositorio.git
 
-
 ## Para crear un modulo en python
 - Estructura del proyecto:
 ```
@@ -23,3 +22,7 @@ mi_modulo/
 ├── setup.py                  # Script de instalación
 └── README.md                 # Archivo de descripción del proyecto
 ```
+## Para lanzar un test
+
+- Ejecuta el comando pytest en la terminal.
+- Delante de la función de test creo que tiene que empezar con test ... y creo que el .py tambien tiene que empezar con lo de test.

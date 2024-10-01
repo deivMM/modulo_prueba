@@ -6,4 +6,4 @@ nombre_modulo.egg-info/PKG-INFO
 nombre_modulo.egg-info/SOURCES.txt
 nombre_modulo.egg-info/dependency_links.txt
 nombre_modulo.egg-info/top_level.txt
-tests/test.py
+tests/test_my_module.py
