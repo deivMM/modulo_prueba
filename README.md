@@ -10,7 +10,7 @@
 
 ## Para crear un modulo en python
 - Estructura del proyecto:
-
+```
 mi_modulo/
 │
 ├── mi_modulo/                # Carpeta del módulo
@@ -22,3 +22,4 @@ mi_modulo/
 │
 ├── setup.py                  # Script de instalación
 └── README.md                 # Archivo de descripción del proyecto
+```
