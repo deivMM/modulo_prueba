@@ -1,12 +1,3 @@
-- Para actualizar un modulo en tu ordenador:
-    Ir al directorio y -> pip install --upgrade .
-    o  si el módulo está instalado desde GitHub
-    pip install --upgrade git+https://github.com/usuario/repositorio.git
-
-- Para instalar un modulo en tu ordenador desde GitHub:
-
-    pip install git+https://github.com/usuario/repositorio.git
-
 ## Para crear un modulo en python
 - Estructura del proyecto:
 ```
@@ -22,6 +13,16 @@ mi_modulo/
 ├── setup.py                  # Script de instalación
 └── README.md                 # Archivo de descripción del proyecto
 ```
+
+## Para actualizar un modulo en tu ordenador:
+    Ir al directorio y -> pip install --upgrade .
+    o  si el módulo está instalado desde GitHub
+    pip install --upgrade git+https://github.com/usuario/repositorio.git
+
+## Para instalar un modulo en tu ordenador desde GitHub:
+
+    pip install git+https://github.com/usuario/repositorio.git
+
 ## Para lanzar un test
 
 - Ejecuta el comando pytest en la terminal.
